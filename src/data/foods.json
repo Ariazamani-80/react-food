@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "Title": "Pancakes",
+    "Category": "breakfast",
+    "Price": 8.99,
+    "Calory": 350,
+    "Image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 2,
+    "Title": "Avocado Toast",
+    "Category": "breakfast",
+    "Price": 7.5,
+    "Calory": 280,
+    "Image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 3,
+    "Title": "Greek Yogurt & Berries",
+    "Category": "breakfast",
+    "Price": 6.99,
+    "Calory": 220,
+    "Image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 4,
+    "Title": "French Toast",
+    "Category": "breakfast",
+    "Price": 9.5,
+    "Calory": 410,
+    "Image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 5,
+    "Title": "Cheeseburger",
+    "Category": "lunch",
+    "Price": 12.99,
+    "Calory": 650,
+    "Image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 6,
+    "Title": "Chicken Caesar Salad",
+    "Category": "lunch",
+    "Price": 11.5,
+    "Calory": 480,
+    "Image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 7,
+    "Title": "Margherita Pizza",
+    "Category": "lunch",
+    "Price": 13.99,
+    "Calory": 720,
+    "Image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 8,
+    "Title": "Grilled Chicken Wrap",
+    "Category": "lunch",
+    "Price": 10.99,
+    "Calory": 520,
+    "Image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 9,
+    "Title": "Grilled Salmon",
+    "Category": "dinner",
+    "Price": 18.99,
+    "Calory": 540,
+    "Image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 10,
+    "Title": "Beef Steak",
+    "Category": "dinner",
+    "Price": 24.99,
+    "Calory": 680,
+    "Image": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 11,
+    "Title": "Chicken Alfredo",
+    "Category": "dinner",
+    "Price": 16.5,
+    "Calory": 750,
+    "Image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 12,
+    "Title": "Vegetable Stir Fry",
+    "Category": "dinner",
+    "Price": 13.5,
+    "Calory": 420,
+    "Image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 13,
+    "Title": "Chocolate Cake",
+    "Category": "dessert",
+    "Price": 6.99,
+    "Calory": 520,
+    "Image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 14,
+    "Title": "Cheesecake",
+    "Category": "dessert",
+    "Price": 7.5,
+    "Calory": 480,
+    "Image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 15,
+    "Title": "Apple Pie",
+    "Category": "dessert",
+    "Price": 5.99,
+    "Calory": 390,
+    "Image": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 16,
+    "Title": "Chocolate Brownie",
+    "Category": "dessert",
+    "Price": 4.99,
+    "Calory": 360,
+    "Image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 17,
+    "Title": "French Fries",
+    "Category": "snacks",
+    "Price": 4.5,
+    "Calory": 320,
+    "Image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 18,
+    "Title": "Popcorn",
+    "Category": "snacks",
+    "Price": 3.99,
+    "Calory": 180,
+    "Image": "https://images.unsplash.com/photo-1585647347384-2593bc35786b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 19,
+    "Title": "Orange Juice",
+    "Category": "drinks",
+    "Price": 4.5,
+    "Calory": 110,
+    "Image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "Id": 20,
+    "Title": "Iced Coffee",
+    "Category": "drinks",
+    "Price": 5.99,
+    "Calory": 140,
+    "Image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=800&q=80"
+  }
+]

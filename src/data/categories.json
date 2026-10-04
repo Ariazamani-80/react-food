@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Title": "Breakfast"
+  },
+  {
+    "Id": 2,
+    "Title": "Lunch"
+  },
+  {
+    "Id": 3,
+    "Title": "Dinner"
+  },
+  {
+    "Id": 4,
+    "Title": "Snacks"
+  },
+  {
+    "Id": 5,
+    "Title": "Drinks"
+  },
+  {
+    "Id": 6,
+    "Title": "Dessert"
+  }
+]

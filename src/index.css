@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.active {
+    @apply text-white bg-rose-500 font-bold;
+}
